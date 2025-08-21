@@ -1,0 +1,26 @@
+[
+  {
+    "roll_no": "101",
+    "name": "M.Bhavani",
+    "grade": "A",
+    "age": "21"
+  },
+  {
+    "roll_no": "102",
+    "name": "Sowmya",
+    "grade": "A",
+    "age": "22"
+  },
+  {
+    "roll_no": "103",
+    "name": "Ajay",
+    "grade": "B",
+    "age": "22"
+  },
+  {
+    "roll_no": "105",
+    "name": "Sulochana",
+    "grade": "A",
+    "age": "21"
+  }
+]
