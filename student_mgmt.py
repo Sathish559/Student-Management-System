@@ -162,11 +162,12 @@ def main() -> None:
             pause()
         elif choice == "6":
             save_data()
-            print("Goodbye!")
+            print("Have a nice day🎉😍!")
             break
         else:
             print("Invalid choice. Try again.")
 
 
 if __name__ == "__main__":
+
     main()
